@@ -1,0 +1,50 @@
+0 Harris Sparrow
+1 Grasshopper Sparrow
+2 Myrtle Warbler
+3 Pine Grosbeak
+4 Black throated Blue Warbler
+5 American Redstart
+6 Least Flycatcher
+7 Parakeet Auklet
+8 Ring billed Gull
+9 Golden winged Warbler
+10 Eastern Towhee
+11 Palm Warbler
+12 Shiny Cowbird
+13 Blue Grosbeak
+14 Dark eyed Junco
+15 Red headed Woodpecker
+16 Elegant Tern
+17 Kentucky Warbler
+18 Western Grebe
+19 Acadian Flycatcher
+20 Magnolia Warbler
+21 Cerulean Warbler
+22 Black and white Warbler
+23 Spotted Catbird
+24 Clay colored Sparrow
+25 Pigeon Guillemot
+26 Evening Grosbeak
+27 Prothonotary Warbler
+28 Florida Jay
+29 Downy Woodpecker
+30 Horned Puffin
+31 Horned Lark
+32 Bobolink
+33 Common Tern
+34 Pacific Loon
+35 Cape Glossy Starling
+36 Anna Hummingbird
+37 White Pelican
+38 Black Tern
+39 Brown Creeper
+40 Tree Sparrow
+41 Green Kingfisher
+42 Black billed Cuckoo
+43 Northern Fulmar
+44 Ovenbird
+45 Great Grey Shrike
+46 Green Jay
+47 Gray Catbird
+48 Orange crowned Warbler
+49 Black throated Sparrow
