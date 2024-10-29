@@ -109,7 +109,7 @@ plt.show()
 
 ### model ###
 epoch = 50
-lr = 0.1
+lr = 0.01
 model = models.resnet18(pretrained=True)
 
 ### transfer learning ###
